@@ -7,9 +7,9 @@
 
 
 ![Loserawr GitHub stats](https://github-readme-stats.vercel.app/api?username=loserawr&show_icons=true&theme=tokyonight)
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loserawr&hide_progress=true)
-
+-->
 ## Linguagens que utilizo:
 
 
