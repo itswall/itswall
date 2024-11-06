@@ -1,20 +1,41 @@
+<img src="https://github.com/itswall/itswall/blob/main/img/banr.png" />
 
+<h2 align="center">technology stack</h2>
 
-### Hi, i'm Wallace! 🥳
-
+<p align="center">
+ <img height=70px width=70px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
+ <img height=70px width=70px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
+ <img height=70px width=70px src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"/>
+ <img height=70px width=70px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
+ <img height=70px width=70px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
+ <img height=70px width=70px src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
+ <img height=70px width=70px src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
+ <img height=70px width=70px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
+ <img height=70px width=70px src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg"/>
  
-<!--  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-wallace/)
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loserawr&hide_progress=true) 
+<h2 align="center">about me</h2>
 
+<a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=itswall&theme=dark" alt="GitHub Streak" align="right" />
+</a>
 
+- Name: **Emerson Wallace**
 
-## Technology stack:
+- Residing in: **Recife, Brazil**
 
+- Languages: Portuguese, English(c1)
+  
+- i'm a computer science student mainly interested in backend development, cloud computing and game development. in my free time i enjoy playing some games and also love RPGs, especially DnD. I also love animes and listening to music :)
 
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<div/>
- -->
+</br>
+<img heigh=400px width=400px src="https://64.media.tumblr.com/a18796c3d2e3a60d6a5569c16262ca8f/223f06e1f0118556-6e/s2048x3072/c685e78749c0b914c97159ff56e6265b1c7ffe1a.gif" align="right"/>
+
+- what i'm listening recently:
+
+ </br>
+ 
+![spotify](https://spotify-recently-played-readme.vercel.app/api?user=3ziq3wtdob973kger5sb9ckd6)
+
+  
