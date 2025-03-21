@@ -1,4 +1,4 @@
-<img src="https://github.com/itswall/itswall/blob/main/img/banr.png" />
+<!-- <img src="https://github.com/itswall/itswall/blob/main/img/banr.png" /> -->
 
 <h2 align="center">technology stack</h2>
 
