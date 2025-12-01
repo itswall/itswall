@@ -27,7 +27,7 @@
 
 - Languages: Portuguese, English(c1)
   
-- i'm a computer science student mainly interested in backend development, cloud computing and game development. in my free time i enjoy playing some games and also love RPGs, especially DnD. I also love animes and listening to music :)
+- i'm a computer science student mainly interested in backend development, cloud computing and cybersecurity.
 
 </br>
 <img heigh=400px width=400px src="https://64.media.tumblr.com/a18796c3d2e3a60d6a5569c16262ca8f/223f06e1f0118556-6e/s2048x3072/c685e78749c0b914c97159ff56e6265b1c7ffe1a.gif" align="right"/>
